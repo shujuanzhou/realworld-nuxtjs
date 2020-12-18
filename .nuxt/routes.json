@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\MyFolder\\\\Study\\\\Code\\\\lagou-study\\\\ProgramTest\\\\Part3-Module3-vue-ssr\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\MyFolder\\\\Study\\\\Code\\\\lagou-study\\\\ProgramTest\\\\Part3-Module3-vue-ssr\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_11cd87f8"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\MyFolder\\\\Study\\\\Code\\\\lagou-study\\\\ProgramTest\\\\Part3-Module3-vue-ssr\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_281bbf70"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\MyFolder\\\\Study\\\\Code\\\\lagou-study\\\\ProgramTest\\\\Part3-Module3-vue-ssr\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_281bbf70"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\MyFolder\\\\Study\\\\Code\\\\lagou-study\\\\ProgramTest\\\\Part3-Module3-vue-ssr\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_695073f0"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\MyFolder\\\\Study\\\\Code\\\\lagou-study\\\\ProgramTest\\\\Part3-Module3-vue-ssr\\\\realworld-nuxtjs\\\\pages\\\\settings",
+        "_name": "_51fe1abc"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\MyFolder\\\\Study\\\\Code\\\\lagou-study\\\\ProgramTest\\\\Part3-Module3-vue-ssr\\\\realworld-nuxtjs\\\\pages\\\\editor",
+        "_name": "_625f5b74"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\MyFolder\\\\Study\\\\Code\\\\lagou-study\\\\ProgramTest\\\\Part3-Module3-vue-ssr\\\\realworld-nuxtjs\\\\pages\\\\article",
+        "_name": "_501ab73d"
+      }
+    ],
+    "_name": "_4ac1a7fa"
+  }
+]
